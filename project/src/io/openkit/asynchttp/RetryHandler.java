@@ -21,7 +21,7 @@
     fantastic droid-fu project: https://github.com/donnfelker/droid-fu
 */
 
-package com.loopj.android.http;
+package io.openkit.asynchttp;
 
 import android.os.SystemClock;
 

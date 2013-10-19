@@ -16,7 +16,7 @@
     limitations under the License.
 */
 
-package com.loopj.android.http;
+package io.openkit.asynchttp;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;

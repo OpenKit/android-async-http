@@ -16,7 +16,7 @@
     limitations under the License.
 */
 
-package com.loopj.android.http;
+package io.openkit.asynchttp;
 
 import org.apache.http.cookie.Cookie;
 import org.apache.http.impl.cookie.BasicClientCookie;

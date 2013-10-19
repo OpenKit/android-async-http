@@ -16,7 +16,7 @@
     limitations under the License.
 */
 
-package com.loopj.android.http;
+package io.openkit.asynchttp;
 
 import android.content.Context;
 import android.util.Log;
@@ -591,7 +591,6 @@ public class AsyncHttpClient {
         sendRequest(httpClient, httpContext, request, null, responseHandler,
                 context);
     }
-
 
     //
     // HTTP POST Requests

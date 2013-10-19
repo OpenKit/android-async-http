@@ -16,7 +16,7 @@
     limitations under the License.
 */
 
-package com.loopj.android.http;
+package io.openkit.asynchttp;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.client.entity.UrlEncodedFormEntity;

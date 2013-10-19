@@ -1,4 +1,4 @@
-package com.loopj.android.http;
+package io.openkit.asynchttp;
 
 import org.apache.http.conn.ssl.SSLSocketFactory;
 
